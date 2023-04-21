@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 ##sudo apt-get install upgrade 
 echo 'Installing ssh, vim, wget, zip, unzip, curl nettools'
